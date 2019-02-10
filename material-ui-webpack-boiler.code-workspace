@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+				"sync.gist": "bd229bfc7c92120c4c378c8a300e7dad",
+		"eslint.codeAction.showDocumentation": {
+			"enable": true
+		},
+		"eslint.enable": true,
+		"eslint.packageManager": "npm",
+		"eslint.provideLintTask": true,
+		"eslint.run": "onSave",
+		"eslint.validate": ["javascript", "javascriptreact"],
+		"codemetrics.basics.EnabledForJSX": true,
+		"ACReactComponentGenerator.mainFile.extension": "jsx",
+		"workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+		"vsicons.presets.hideFolders": true,
+		"react-components.root": "<root>/src/component",
+		"prettier.eslintIntegration": true,
+		"prettier.jsxBracketSameLine": true,
+		"prettier.jsxSingleQuote": true,
+		"prettier.parser": "babylon",
+		"prettier.singleQuote": true,
+		"prettier.stylelintIntegration": true,
+		"prettier.tabWidth": 4,
+		"prettier.semi": true,
+		"prettier.useTabs": true,
+		"javascript.preferences.importModuleSpecifier": "auto",
+		"javascript.preferences.quoteStyle": "single",
+		"javascript.suggest.autoImports": true,
+		"javascript.suggest.paths": true,
+		"javascript.updateImportsOnFileMove.enabled": "always",
+		"typescript.preferences.importModuleSpecifier": "auto",
+		"stylelint.enable": true,
+		"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+		"codemetrics.nodeconfiguration.JsxElementDescription": "Jsx element",
+		"html.format.enable": true,
+		"html.format.endWithNewline": true,
+		"html.format.indentInnerHtml": true,
+		"html.format.wrapAttributes": "aligned-multiple",
+		"workbench.editor.labelFormat": "default",
+		"scssFormatter.useTabs": true
+	}
+}
